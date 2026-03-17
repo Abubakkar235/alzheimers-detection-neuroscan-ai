@@ -1,0 +1,10 @@
+flask
+tensorflow
+numpy
+pandas
+matplotlib
+pillow
+mysql-connector-python
+bcrypt
+fpdf
+reportlab
